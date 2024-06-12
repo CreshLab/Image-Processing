@@ -29,7 +29,7 @@ Techniques included in this project:
 # Clone the repo:
 git clone https://github.com/CreshLab/Image-Processing/segmentation.git
 
-# Naviga nella cartella del progetto
+# Move to project directory
 cd segmentation
 
 # Install dependencies
